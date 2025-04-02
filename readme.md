@@ -26,12 +26,12 @@ Antes de clonar el proyecto, asegúrate de tener instalado:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/leaox77/Crud-Estudiantes.git
    ```
 
 2. Ingresa al directorio del proyecto:
    ```sh
-   cd tu-repositorio
+   cd Crud-Estudiantes
    ```
 
 3. Compila y ejecuta el proyecto con Maven:
@@ -41,7 +41,7 @@ Antes de clonar el proyecto, asegúrate de tener instalado:
 
 4. La API estará disponible en:
    ```sh
-   http://localhost:8080/api/students
+   http://localhost:8082/api/students
    ```
 
 ## Uso de la API
